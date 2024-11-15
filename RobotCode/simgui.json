@@ -4,6 +4,18 @@
       "/FMSInfo": "FMSInfo"
     }
   },
+  "NetworkTables": {
+    "retained": {
+      "Motors": {
+        "open": true
+      }
+    },
+    "transitory": {
+      "Motors": {
+        "open": true
+      }
+    }
+  },
   "NetworkTables Info": {
     "visible": true
   }
